@@ -1,0 +1,24 @@
+====================================================
+       SPATIAL AUDIT-AS-A-SERVICE: EXECUTIVE REPORT
+       Multi-Criteria Decision Analysis (MCDA) Matrix
+       Generated: 2026-10-05 19:32
+====================================================
+
+RANKING SUMMARY (Top Evaluated Expansion Sites):
+----------------------------------------------------
+Site ID    | Site Name                      | Score 
+----------------------------------------------------
+SITE_001   | Ikeja City Mall Expansion      | 81.8 /100
+SITE_003   | Victoria Island Commercial Post | 81.2 /100
+SITE_004   | Yaba Tech Hub Outpost          | 80.5 /100
+SITE_005   | Ikeja GRA Logistics Depot      | 80.1 /100
+SITE_002   | Lekki Phase 1 Retail Hub       | 79.8 /100
+----------------------------------------------------
+
+METHODOLOGY NOTE:
+Evaluated via 100-point weighted composite framework:
+ - Demand Density & Demographics (40%)
+ - Live OpenStreetMap Infrastructure & Proximity (40%)
+ - Competitor Gap & Grid Feasibility (20%)
+
+CONFIDENTIAL: Prepared by Spatial Audit Engine.
